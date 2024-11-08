@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0591E8&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Mundo!;Me+chamo+Márcio+Henrique;Tenho+34+anos;Resido+em+Belo+Horizonte,+Brasil;Graduando+em;Analise+e+Desenvolvimento+de+Sistemas;Pela+Metropolitana!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0591E8&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Mundo!;Me+chamo+Márcio+Henrique;Tenho+34+anos;Resido+em+Belo+Horizonte,+Brasil;+:%29)](https://git.io/typing-svg)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
