@@ -36,6 +36,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marciohenr1que&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+![Metrics](https://metrics.lecoq.io/Marciohenr1que?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FSao_Paulo)
+
 
   <div> 
   <a href="https://www.linkedin.com/in/marcio-castilho-00098b187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-   badge&logo=linkedin&logoColor=white" target="_blank"></a>
